@@ -1,10 +1,10 @@
-package com.mingeso.HistoriaDeUsuario;
+package com.mingeso.uploadService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HistoriaDeUsuarioApplicationTests {
+class uploadApplicationTests {
 
 	@Test
 	void contextLoads() {
